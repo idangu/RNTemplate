@@ -4,5 +4,8 @@
   "description": "React Native Template",
   "repository": "https://github.com/idangu/RNTemplate.git",
   "author": "Idan Gueta",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "axios-mock-adapter": "^1.20.0"
+  }
 }
